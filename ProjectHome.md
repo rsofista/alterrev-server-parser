@@ -1,0 +1,1 @@
+A modded version of DeathMax's Server parser for aiw. It now works with alterRev dpmaster.
